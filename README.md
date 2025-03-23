@@ -26,10 +26,10 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           </div>
     </div>
-    <div align= "center"> 
+<!--     <div align= "center"> 
 <!-- 다크모드에서 안 보이는 거 색상 수정 필요 -->
 <!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hisunny1007&bg_color=180,00000000,00000000&title_color=000000&text_color=000000" -->
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisunny1007&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div> 
-    </div> -->
+    </div> --> -->
     
